@@ -1,0 +1,5 @@
+#do not push bkp file
+*.bkp
+
+#do not push .jar file
+*.jar
